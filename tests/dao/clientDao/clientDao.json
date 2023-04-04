@@ -1,0 +1,12 @@
+{
+  "clientRequest": {
+    "ipAddress": "19.78.90.89",
+    "hostName": "client1",
+    "userName": "kavya"
+  },
+  "clientUpdateReq": {
+    "ipAddress": "19.78.99090",
+    "hostName": "client2",
+    "userName": "Nadini"
+  }
+}

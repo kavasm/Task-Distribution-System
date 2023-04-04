@@ -1,0 +1,14 @@
+{
+  "taskReq": {
+    "taskName": "program.c",
+    "clientId": 1,
+    "taskParmeters": "Hello world",
+    "taskExecPath": "c/prog/program.c"
+  },
+  "taskUpdateReq": {
+    "taskName": "program1.c",
+    "clientId": 2,
+    "taskParmeters": "Hello world",
+    "taskExecPath": "c/prog/program.c"
+  }
+}

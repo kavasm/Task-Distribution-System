@@ -1,0 +1,12 @@
+{
+  "nodeReq": {
+    "ipAddress": "19.90.78.87",
+    "nodeport": "4000",
+    "nodeStatus": 1
+  },
+  "nodeUpdateReq": {
+    "ipAddress": "19.9078.78.87",
+    "nodeport": "4000",
+    "nodeStatus": 2
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "eventType": "EventLogger",
+  "errorLogLevel": "error",
+  "errorLogFilename": "logs/_error.log",
+  "debugLogLevel": "debug",
+  "debugLogFileName": "logs/_debug.log",
+  "datePattern": "MM-d-yyyy",
+  "logDirectory": "logs",
+  "maxFiles": 5
+}
